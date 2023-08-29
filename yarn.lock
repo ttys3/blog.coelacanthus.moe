@@ -164,9 +164,9 @@ arrify@^1.0.1:
   integrity sha1-iYUI2iIm84DfkEcoRWhJwVAaSw0=
 
 async@^3.0.0:
-  version "3.2.0"
-  resolved "https://registry.npm.taobao.org/async/download/async-3.2.0.tgz#b3a2685c5ebb641d3de02d161002c60fc9f85720"
-  integrity sha1-s6JoXF67ZB094C0WEALGD8n4VyA=
+  version "3.2.4"
+  resolved "https://registry.yarnpkg.com/async/-/async-3.2.4.tgz#2d22e00f8cddeb5fde5dd33522b56d1cf569a81c"
+  integrity sha512-iAB+JbDEGXhyIUavoDl9WP/Jj106Kz9DEn1DPgYw5ruDn0e3Wgi3sKFm55sASdGBNOQB8F59d9qQ7deqrHA8wQ==
 
 asynckit@^0.4.0:
   version "0.4.0"
@@ -1800,9 +1800,10 @@ ndjson@^1.5.0:
     split2 "^2.1.0"
     through2 "^2.0.3"
 
-"neat-frame@git+https://github.com/agentofuser/neat-frame.git#wrap-ansi-options":
+"neat-frame@https://github.com/agentofuser/neat-frame#wrap-ansi-options":
   version "1.0.2"
-  resolved "git+https://github.com/agentofuser/neat-frame.git#b244ca11078bd35f63b2d7cb22d5e4b5c12ae2aa"
+  uid b244ca11078bd35f63b2d7cb22d5e4b5c12ae2aa
+  resolved "https://github.com/agentofuser/neat-frame#b244ca11078bd35f63b2d7cb22d5e4b5c12ae2aa"
   dependencies:
     inspect-with-kind "^1.0.5"
     merge-options "^1.0.1"
